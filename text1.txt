@@ -1,4 +1,5 @@
 # git-experiment-partc
 # stash and commit in master
 # New in branch1
-# try ours 
+# try ours
+# modufy in branch2 
